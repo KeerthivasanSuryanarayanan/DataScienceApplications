@@ -1,5 +1,5 @@
 # REGULAR EXPRESSIONS 
-## Github Link - 
+## Github Link - https://github.com/KeerthivasanSuryanarayanan/DataScienceApplications/blob/main/DSA%20Assignment%20-%20Regular%20Expressions.ipynb
 ![RE_ASSIGNMENT 1](https://user-images.githubusercontent.com/104590925/213351349-7ece4228-ded8-4bb9-85da-cb0867d66707.jpg)
 ### EXPLANATION
 #### As shown in the code above initially the import re statement imports the regular expressions library to the notebook
